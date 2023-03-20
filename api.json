@@ -1,9 +1,5 @@
 {
-    "data":
-   [
-    {
-      "name": "Iselda"
-    }
-   ]
-  }
-  
+	"data": [{
+		"name": "Iselda"
+	}]
+}
